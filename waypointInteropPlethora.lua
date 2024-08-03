@@ -1,4 +1,4 @@
-local recorder = peripheral.find("chat_recorder")
+local recorder = peripheral.find("manipulator")
 --[[ 
 xaero-waypoint:Home Base:H:-2433:63:-415:6:false:0:Internal-overworld-waypoints
 xaero-waypoint:Doge Base:D:609:64:-42:12:false:0:Internal-overworld-waypoints
